@@ -1,0 +1,7 @@
+# Ignore Python bytecode
+*.py[cod]
+__pycache__/
+.idea
+# Ignore virtual environments
+venv/
+.venv
